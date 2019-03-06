@@ -14,6 +14,7 @@ Collection of patched suckless utilities https://suckless.org/
 ## slstatus
 
 ## st
+* monokai colors
 * alpha
 * bold is not bright
 * scrollback
